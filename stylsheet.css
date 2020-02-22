@@ -1,0 +1,24 @@
+h1 {
+    background-color: darkgray;
+    color: rgb(2, 63, 22);
+    text-align: center;
+    height: 50px;
+    width: 50%;
+}
+
+nav{
+    background-color: chartreuse;
+    text-align: center;
+    text-decoration-color: cornsilk;
+}
+footer{
+    background-color: darkgreen;
+    text-align: left;
+}
+
+#para1{
+    color: darkolivegreen;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
