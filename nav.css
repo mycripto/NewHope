@@ -1,0 +1,20 @@
+.nav{
+    text-align: center;
+    }
+
+.nbar{
+    text-decoration: none;
+}
+
+#home{
+    color: darkorchid;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    text-decoration: none;
+
+
+}
+
+/* #home:link{
+    text-decoration: none;
+
+}
